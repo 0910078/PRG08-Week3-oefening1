@@ -1,0 +1,3 @@
+interface Behaviour{
+    draw();
+}
